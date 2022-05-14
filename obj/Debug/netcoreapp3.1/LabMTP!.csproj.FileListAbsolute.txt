@@ -1,0 +1,16 @@
+D:\OriginalFinalFlash\LabMTP!\bin\Debug\netcoreapp3.1\LabMTP!.exe
+D:\OriginalFinalFlash\LabMTP!\bin\Debug\netcoreapp3.1\LabMTP!.deps.json
+D:\OriginalFinalFlash\LabMTP!\bin\Debug\netcoreapp3.1\LabMTP!.runtimeconfig.json
+D:\OriginalFinalFlash\LabMTP!\bin\Debug\netcoreapp3.1\LabMTP!.runtimeconfig.dev.json
+D:\OriginalFinalFlash\LabMTP!\bin\Debug\netcoreapp3.1\LabMTP!.dll
+D:\OriginalFinalFlash\LabMTP!\bin\Debug\netcoreapp3.1\LabMTP!.pdb
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP!.csproj.AssemblyReference.cache
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP_.Form1.resources
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP!.csproj.GenerateResource.cache
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP!.GeneratedMSBuildEditorConfig.editorconfig
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP!.AssemblyInfoInputs.cache
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP!.AssemblyInfo.cs
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP!.csproj.CoreCompileInputs.cache
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP!.dll
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP!.pdb
+D:\OriginalFinalFlash\LabMTP!\obj\Debug\netcoreapp3.1\LabMTP!.genruntimeconfig.cache
