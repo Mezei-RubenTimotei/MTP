@@ -1,0 +1,16 @@
+D:\OriginalFinalFlash\LabOriginal2\bin\Debug\netcoreapp3.1\LabOriginal2.exe
+D:\OriginalFinalFlash\LabOriginal2\bin\Debug\netcoreapp3.1\LabOriginal2.deps.json
+D:\OriginalFinalFlash\LabOriginal2\bin\Debug\netcoreapp3.1\LabOriginal2.runtimeconfig.json
+D:\OriginalFinalFlash\LabOriginal2\bin\Debug\netcoreapp3.1\LabOriginal2.runtimeconfig.dev.json
+D:\OriginalFinalFlash\LabOriginal2\bin\Debug\netcoreapp3.1\LabOriginal2.dll
+D:\OriginalFinalFlash\LabOriginal2\bin\Debug\netcoreapp3.1\LabOriginal2.pdb
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.csproj.AssemblyReference.cache
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.Form1.resources
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.csproj.GenerateResource.cache
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.AssemblyInfoInputs.cache
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.AssemblyInfo.cs
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.csproj.CoreCompileInputs.cache
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.dll
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.pdb
+D:\OriginalFinalFlash\LabOriginal2\obj\Debug\netcoreapp3.1\LabOriginal2.genruntimeconfig.cache
